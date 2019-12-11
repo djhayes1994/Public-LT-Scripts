@@ -1,0 +1,37 @@
+﻿<LabTech_Expansion
+	Version="190.307"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6130</ScriptId>
+				<FolderId>315</FolderId>
+				<ScriptName>DattoProvider Registration</ScriptName>
+				<ScriptNotes>This script is to resolve an issue with the DattoProvider service missing from a machine with the Datto Agent for Windows. </ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPywrCMBRE94L/kA9oyKMPm3LJRsWNimhxH9NbyMK2pI3Yv5cWhboaZoYzMHB0Fpsed2YwGsqxQy2AzQrX0Gzb0AzoNQe2cLB/d85PDOoyYF+ZMSLn9oXPB3oiVEQkF4qkRRwXqSSXE7AFATfrXTfc0feubabp/+DbH4KrtMhtVtWbjAqbSCoEGpqLJKaccyuVqnOL9Y+fAWDLQ+vVBxaAAPHgAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO2aXW/bNhSG7wfsPxwU7V38IdlxPuoZLdK6COAtxtytN7lhpCObKE0ZJOXYG/bfdyjLipQ5atJIU9XtxhZFWhYfHR6+r8jhzFN8Zd4xw0Y//gAw3JV1XKDi+41RzNaOOQpfQ2dfMWWKLdGgypz7IMIbJjIndhf7nRrxUI6cYSd/ItfqQ8T9kXPqDfzgZNByvL7bchxkrVOn32t1u13PPTsLTj0M9leJfxDfcyd708nlZgZXaS/eeia5geQoOT+OZFy+9EcDd9jJFLO9dEYEwITwiUs/vNXwdo7SDDtJXbale49P7165f698nEEVKjPqUlfsd3LuIpSGywjt+fQ4qbvSE77k8U/2h0nNpfTp/ljcT6rNFrO07gAVEHMLiDm9swJk51eziwV6n//nVMzp44Jr0BhXAh1GGn2gYFuj4sEWzIIZ+kBYMm/BJdomKpKSy/k+HtuVIHaahNgtInxg8FqKPiUvzxBspoFLbZgQ6L+GOGgt3SBU8DPzgL4m1NsNzBYomeRzJitC7paN3KkL+S+hbO2BX81S1G14v+HGwtXxf1aDsfd0jM6gNo5OIchuJYT6jSJUCCgTZbdMZyIt6UjVwXbcpDH7hRk7Tn2XwQzVmntIQ1UbXQm0QZPmlkdM3yumDIRBPE/vgg0iwwX/AzVMw1tSuwsUIjer24lcR/F0HnpepBQFajURetIs2McFsI3awp/wUu8CFH6COZrWvhRP81MVrrmPClqoVKjYTlZpE65ewyfFDbauIrOKDLw0iuj/BRfMeAu6aL4yIBdDtZU8j9MmZQy3W/A4nMN8Rq9Wacwr1JEwr5KGbh7caDr7Na5PqntP4njWJI4nRRzf7Dm8eQCo+wC/sQ3Tw/BG52O+STJ50qJfrPdL91TN4/mRcsJDOHOz4phx8TiqpduoGvXBPyKqZMdZuv+pWRakGuAm4oI8p0xNqAlDYT9B4ZziieYrqwjeTSaguaD7FduKTP1XeKNv1NX/FsO18p4Y6rXquW3cYI5pXhGkOmEy0dbzx8QPtqBHtyR1Vpkic77Cf9WYFAYFTyHHvsOhI6Gj4cXF+TVRnVMTGFNA6+sY9PWBNzHXuUfQ9oV4UQ3z78mozQwZjkpT8Xfk0GJYOh3cTPp26MudFeOUnbnJvFRtkyOINJ1NfBzFK25siwAYBDTtRwqzbw8ryhCNMm2Fni03vquB1ShHdVyQTu919NlgGmWRHCtOnhNGlBcjz0OtD6v7p76Mb5QfKpRKsztdo0k1CZChSReRWGClkrZJ8ogSo9U+yKTeLTxR4luybfKrG0xlEUwFMo0ktXQo1nZxSkZMVKVa3WaZqBpe6LuNWjr6krrJjeKSQTXKAD3CY/qo+Vwyg/puqTiRLopJ0DuWQVTd4CzdzNRmKTN5Uoa3lNxWjCv0j2C1y3ZccsMJNSnBG+Z9jlb/znqm2yzrUkf6K92u1Jn+HnjRWDKyRjmM5yVCa9vQJ/3iWWuXWXyzK8ZWC1W8AueWblBqT5EYRycwoZD52yOiCBKJsd00E4vIO/tMQrMirM2yNzXkxd4352F6ZW7iskM33bkFoczuk/tvbDsswllHwNWxaXBfTrYw/w2mnMRA0SwAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>18c6df76-1c42-11ea-8143-000c299f8cef</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>315</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Rerelease</Name>
+					<GUID>7bca78fe-e664-4a81-9f51-790cd31ecabb</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
