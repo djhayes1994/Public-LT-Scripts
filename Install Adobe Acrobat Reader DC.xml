@@ -1,0 +1,39 @@
+﻿<LabTech_Expansion
+	Version="200.81"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6143</ScriptId>
+				<FolderId>315</FolderId>
+				<ScriptName>Install Adobe Acrobat Reader DC</ScriptName>
+				<ScriptNotes>Installs Adobe Acrobat Reader DC (2020.006.20034)
+
+Modify line 23 with the desired versions .exe file download location.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>1</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPzQrCMBCE74LvkAdoyE+tNmXJRcWLBdHiPU23mEta0gbs20uLQj0NszPfwsDVWfQDnsxoNFRTj1oAWxTu0R+76EcMmgNbOTi/exdmBnUVcWjMlJDSBPsiPE2I5JKTvJB5IQ7kVgJb1eFhg+vHJ4bBdX7++3/45pfoGq3Ers5tuqdZozIqBBpqDK8p59xKpdrcYvvjFwDYes128wFSXbwG3QAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO1bXU/jOBR9X2n/w30ZaVaC5rMMRagSamFUiVkQ3Zl9QRq5iQPRpE7Xdqbl36/jOBAKzXSK3Uyy+0JrO0mTwznX99g3p9OAxgs+RhwNf/8N4LRoM9kQzfMVpygfvYhxEjKwyoFrRNEcc0wrfR+TdIaSSkdxsS/ioDglQ+fUet7x7KiPWRwOB44/Ow68o8N+OOgfOg5GhwjZs0PbtgN3MIiOAxyVV5EnyHu2qjetLjflePH4FGcBVzegvqn+i4zI9iTMxyqt6kM6aw/trrW9tba/1u5X8EgpH9rifvNP1TdKCY9JhvP+x+9q7IpdxvNYnlJ+VSMTEmLCkXwYMVptViF5QqEGFrcOFm+wGZjhyegeB98m0YQwjpIEh6eWGvnPAtb390YkRzcurkkiuXYNkc7CdIbhLKAigHC4wSjEFMaj1+k0PDlLqDjkYZ127pvgdNsFZ60ur6ZSmUbk6OnGyW8ufm0gkl7A/DbFr1pebZApxAxQgSTEJZSQEuD3GNgD43jeM4JsvzuStY0AdNQqgOq1ajKmfeiMRCVGMbmDKKXwCQUgPi7F/a+A3WOCSHyHCDOjxuM2ka0WxD9F7Po7JmG6ZHA1hVD4nIDj8ADwKuY5uEz+Zg+M4Dj4eRydo+aAdPr7y3h3sAJNQlPHMcGrINcqLBEDlgUBZizKEkOccnYwC86HX3UqGIlcg+Mb/E8WUxxepInIQ5gZ3LS7guZmhhy0YmbI8YJ3SxHhYvru9vIv9j24vUbBN3SH2a1M8syAqd06GOVgnZUfNoCedh9hFD1nZ/RuN9h++3WbPzwpAsC0iKHqIO/nsG2Vk6iV+WeCZgkGnkIgo+RWcu/B+fPMxgyDtdsRk0sHe01stBuQBhdVXpOjZiJptxqNzcq1slQSDiv5YfJgSJs7uI5fdqlgnC5JkqLwfGVmKnZbtSVRy78Sqjz24xUOMi6nj4imcyg4uMQzFnNshnZuuzYx6pC853xxYlmIhgrSHpJTa5DOrUU2s2TLonLR1BKqt9Q66nhkubZtH4k/ni87b0I6Hj31fcXk6+dpD28i8w+yqccrlqvctHKp9VzK3il9ctu1d/KG1LQWzK0T1lJ008ewvhvsrfJTtWHoEU4gKRcpa0bCAyiFBBGKExzuJ0l1tdusriSprnaT1GCSulGCmtmk3fI0lik8SbTU5V4SU1e7NWowMVUYXtP0TnSYwas73kgWnwUy4n+aTiASk0CvZ4hl7bI/R5oTGLDYWWImAnravVKD+v2CaRyV5SJm4NJuiDpS7ea1y2PoLHdTfHuRqryt3s3rjnso8FQ4lrCOR3JrNfcT5QY+oIiLI/KyJFWnJO8UhEVfJOKYPVkM73+LsQmZLlmMTbLVTKbOOYxCk2kELI34ElH8okRilGBEcpVmC5kVGipo8rpkPUrDK7HLFmYA6473GGMxIeQUq5hdSTVAJFR7qqZo1zIvUpfpVMzIVJiRxTYb/W+Ez2+X4dh2MXpr+DYvOyvpX6B4t/Vmv1WbNfXFUAUU8DQ5vyjuNENO7S7GaILTQMm636X3S14qTjNY3Xm35EJMrhAoWRYbPgegAh6IGCgMXEofYBknCRAsZmOK5+l38TkXZ6B8+Rne14bLP8z8B9pVObZHL+c38fJJ2VYvNP8LBinYE988AAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>914b8c36-5d95-11ea-aa0b-000c299f8cef</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>315</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Rerelease</Name>
+					<GUID>7bca78fe-e664-4a81-9f51-790cd31ecabb</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
