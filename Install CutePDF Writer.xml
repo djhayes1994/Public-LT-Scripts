@@ -1,0 +1,37 @@
+﻿<LabTech_Expansion
+	Version="200.81"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6152</ScriptId>
+				<FolderId>315</FolderId>
+				<ScriptName>Install CutePDF Writer</ScriptName>
+				<ScriptNotes>This script will download CutePDF writer and the GhostScript prereq. </ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>1</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPzQrCMBCE74LvkAdoyA+1tmUJiIoXBVHxvqYJBiQNaQP27aVFoZ6G2ZlvYeDotPGd2WGPCm5DMEoAmxQuyW/b5HsTFQc2c7B/BxdHxqjbM8WuwSEjmxDdi4giI5JLTmSdl/UqJ+cTsFkfrjq60N9N7Fzrx8f/h29+SK5RWGouURZ0bW1FhTBIEfmDcs61rCpbamN//AQAm89ZLj659mBF3gAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO2cQXPiNhTH753pd9BlbxvABrJJJsNMJwnpzrCzmdJ2L7koshw0MRKV5CXpp68k22CzYEiQ8IrmFEt2FPvn9/TeX0/O5RhxMpPXUMLBr78AcJm1hWmo5s2z5FCfHRKcRAK0ixN3kMMplpiX+m4T9gCTUkc22N/qIsLoILhsVzsqV92mJBrAM9QJYXh68imOz0+CAMMTCDsPJ51OB4Xn5/EZwnExivkFc8/t8k3nw40lni2e4jck8xvIj/L+YUpN+3Okz5Va5YcMVh46XGl3V9q9lXa/xINxOeio+9U/874rRiWhKdb9i+P83FcxIlNifqU4zM98phGmEpqHUWfLzTKSJYUaLGEdlu75ZjCDi6/jqwlGT5ftvOOd01pOBpIAkoEpfMJApBwD+KjuBBABeEopoY/gG6ERm4uWE5iBTzDDOpZf4JOm1QDD0DbDsCmGN89EGohmaBClWNvmF4gA42CkHuQZiAmmkJJHSEULOMHZfT3O4LQ5nkH/YBGi5xWZLSHiimOojW3IkkjFfSem1PdpdtsSKjQuLECc4QKCATmBEswgelLTnQAIUvCAgZrmaMJghKOPi2MQ56OqHnUlZRLAVLKpeggEk+QFIDO4GhAX47uZKU99eh+1M2VhvTkvoN7Eh7kKMoR/uB/9Of6O7u/yF3N/lUp8dz28d0L0k0+xJ+j3apBu4ecE35lP+GoNUmknEr+ULHIORe7XkRtnPveJXf3kauCRxezqnl3gl4gJ9vDbDfOevuH8qAJycJElBCoVFbLICrqvg2td1DTm1RkLE7FjltJolzjzEeBqGj8ncgIw54w7MmbrAqh3JAl78AYt0xyZLQn7Gr+0bEdv0Dc/aXo4/CGOAJEihIWIU5VwO/JD63KnQXl4nWuXIUmwI3PzSo3U4ypoqQxG8wIxZ1PA4pggAhPA8Yyp+MGNwMvDBPjGidTCRQWV27sRuJ0w5dfm1hxZp3Wp0ph3F7R1jNU4SyjVk3zHXLfwM0aphA/qdTgC6pV4CeqATqSciYt2ez6ftxQ0PIviFmLTdrGA0V5SbimuGzLKbYnR2kFW08/O21JOv8TQXu8CFSa+x6tYN4adNxFaV1Y/gaQ3QRCY1MtRCcMrybQldci4ZZ7uhpZ1wdNc5rBc+jA2Nse8vIZsYhpUXQlDJosl1CQRiHGOkQTKx9UPxh1ltKF1/dRYzrB05lLGUIB2RM+6nnLq1HstMu2UIGxccspeziJ3e1vg8Up91atXNRW8bs2piv/gK1ChdSl3LCtQoXXV1eAK1Ho3tWxK1lXVe2xfD9q6ZPo/xfauVzJnv9i+i+DcGNo/UyFhkoxZLOfK2N8U2rteqSPLob1C/+CRvfteW9pE5phqS+u91LIpeVVeqgeW89LbwDJiIJUk+Vc7pg7h4kVIPAXj329GIxPmeUpF5qtt5cwvQs0CVOo9ZJSBVKhoRajycJhtEtP7ZvE/qQr/roKXV/vyaufT/EWY2L9Y+jegVVLwMs44z/S1+psIRzitqx+nucCprVSgbMtuwHq1u25nO60UAA9vrX6Vrfax1uqqiHtz9asItYvWz83WCa6eX3vwanH9gQWmkSg+fFGTJFXKXUt/FeMXOYIK7BChlCu13wLFt0d6E/nyioy3q8DfO57PjZaaP2dmbiDb5YMjZwCP51ujv2ZRtoP+B5t1hM66XnKJrm6nvGUh2fOrTKQL/Js/y6jkNhvWiqqxJVy/cvRaiMdT/RmvBAMQQ5WzRGYDWZXv6mqQI8d9L+5sInN8xZ0Vp7RsSUdU22kkfTueks3KLli9UXsB7wBbtftelW92TITRcgGsjNMRQa9qMvVZy8r+601py5BQIiZW0pX+8eiIunTFQM3+5mFylb5XRZlD5ip96yqjyU+hyp5o2YKOpzZS8r7DB1ivaiL1E1xG8IpNZwmW2BGvJkodRTv/L2P/Af676VV0TAAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>a8c02a26-7ff9-11ea-aa0b-000c299f8cef</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>315</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Rerelease</Name>
+					<GUID>7bca78fe-e664-4a81-9f51-790cd31ecabb</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
