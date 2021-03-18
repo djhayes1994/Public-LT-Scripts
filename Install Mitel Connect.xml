@@ -1,0 +1,37 @@
+﻿<LabTech_Expansion
+	Version="200.251"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6182</ScriptId>
+				<FolderId>315</FolderId>
+				<ScriptName>Install Mitel Connect</ScriptName>
+				<ScriptNotes>Installs Mitel Connect</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>1</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPwQrCMBBE74L/kA9oaJIqacuSi4oXC6LFe0w2mEta0gbs30uLQj0NszNvYeDiDYYBj3rUCtqpR8UhXxRuKRy6FEaMikG+cnB69z7ODKo24WD1lJFGR/MirMiIYIKRshZlzSW5NpCv6nA30ffjA+PguzD//T9883PyVklnjdwJS0vp9pRzfNLKFAVljBlRVa406H78AkC+XrPdfAByFc043QAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAOVcXU/jOBR9X2n/w9VoR9qVaJqvTgGhSggoqgQLmu7MSCteTOJQi9Tu2A6F+fXrpAkTCs2UYjck+9Q4ToJzeu/1OfYpB+OAk5k8RhINfv8N4GDRFllDNU/uJUdp75DgOBTQLTouEUdTLDEvnTuN2TWKSycWD/uqLiKMDpyD7tMTT646TUg46Edh0PfdsLPbj3odx8HXnb3A8zq2bQfu3l60G+CoeEp2QzbmbnnQ+ePGEs8e3+IwkPkA8qP8/DChWXsUpn2lVvklnaWXdpfa3lLbX2r3SngwLge2Gm/6mZ87YlQSmuD0/ONx3nchzsiUZLcUh3nPiIaYSpS9jOotN8uQ/EShAha3ChZvbzUwg/2jCQ5uR9GIConiGIcH3bznfwtYz99aIDm6cXFNBpJrVwTSOZE4BjVqigP5chAN9g9jjlH4sBxs7ptAdJsFYmU2XoyzfDSShJ5unPz6qtaKQNILmN+kqlUZV0+SE4gAtMAPSAEgMApygkE8CImnlhE8e+1JVNsIQJ8aBVB1hpqsZP3WJGaGEaE3EDEO5ygA9XGmxn8PYoIpouQGUWEmG3ebFGyVIP6tatc3QkM2F3AxhlBpmkDicAfwPZEpuCL7mxYYwXHv9Tg6n+oD0ultj91uQPvrhKYqxlRcBWmuwhwJEEkQYCGiJDYUU84GwsDpv9ep4EhxDYk/4+8J4TgcsjjEXJjBTbsWqG9mSEFbzAwpXvBxrioc4R+vzv4Rd8HVJQpu0Q0WVxm1MwOmdsFgNAarZPugBvS0qwej6Dkbo3e1QuzbL4v7wf6iAIwXNTS/yHsdto1SEpVp/oWi6xiDZBBkVXKtdLfg5CmzMRPB2uWIyQWDrRIb7QKkxqWUl9JRcyBplxq1zcqVaZmncFjih/GDodzcQHW826WCYzanMUPhyT02ApbbqO2HyvgroEprP77HQSKz6SPibArmuIzbrH2KKgAnUs7EfrebzG44CrHtWOL2wRITxnE6sQZs2j2KiRpYvrTcdR3Pcmzb6tm9vmV3M5DzhdTTywvrB5mt4D/VpGn1c5b5kr0RRXKbtSvyBvq5/jeykpEWWTV+rNubYd4owVRZZ/4lM6BMKjaa0HAHwhwgiBCJcbgd/ulqV1Bt4Z+udv1TI/9cmXyao0m7mqmNBKTJWWTkVtimq13v1Mg2FXqZJSrrNgNXe/ROgZQq9efjEUSq+luWoSBrlKRxvYpyv2p7WME5QzTsHPJgQu4wdIaMBxj+wPRu/xuhx4SvTXF+fdN63prHofqVX46nXUK9azpZWCWsqSCvJZO5cLjkTCmM6UZE0muU3qp2nqiqUSKS+LHybpVKetrVUFuopNcmV9iLqac5ktpjCvucUJomXuEB42YAa9ReTbrnsRIwNRmka27QJfDhlZPIB+h+N0M2vTaZxr5iTqLC1WkGrkZ5x7ZoRfca5QfT4EXPo+zZssPbzOhes1TM+qbh1PeUErnCXQcokphnnuF8AsnGBwGbzmJ1zZaYna9dmLSF2fnaRUT9zM7wGqHfHvvYqJyTLALBIjlHHD/zLx7FGGU0MJllyzuG3MZ+o/ZG1lyyzrBLVmw3vRWw9giNY6wmhDTESovWWagBomFueDIVdg1TH1WsZhMX3lvha5a42KKJMU/9ISKb7RX7jdpSqXYqL6CAn5Pzs19emAlO7YrFKMGp4fdkvnYxUiMFfJ5xmn+d2B6X2FBNrhDkablYZ9+B2aLggaqBSsAx/gBzEsdAsZqNOZ6yO/U5VXegdBsZ/qwul3+Z+Qqate+xRTHXq8POVbTzfy3yH8DT0R5pRAAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>7fdc742d-87f5-11eb-9c33-000c299f8cef</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>315</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Rerelease</Name>
+					<GUID>7bca78fe-e664-4a81-9f51-790cd31ecabb</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

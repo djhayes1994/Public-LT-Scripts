@@ -1,0 +1,37 @@
+﻿<LabTech_Expansion
+	Version="200.251"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6183</ScriptId>
+				<FolderId>315</FolderId>
+				<ScriptName>Install Webex Calling</ScriptName>
+				<ScriptNotes>Installs Webex Calling</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>1</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPywrCMBBF94L/kA9oyAvpgyEbFTcWRIv7mE4wm7SkDdi/1xaFuhpm7j0HBs7eYhjwYEajoZl61ALYMuGawr5LYcSoObDVBsdX7+PMoG4SDq2ZMlKbaJ+Eq4xILjkpKllUIieXGtiqDjcbfT/eMQ6+C7P3//DNT8m32gj1UTlFi9ztqBD4oKVVinLOrSxLV1h0P34BgK2/2W7ev/fCH90AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO1by27bOBTdDzD/cDcFZoDEsiQ7iYPUQODERQB3EtTTdhOgoCkqISqTrkjVzt+XeiV+xERrk1almZVFUlKkk3suzyGvLsY4pjN5hSTq//kHwEXeFllDNa8XMkbp6JCSKBDglAN3KEZTIkm81Pcu4hMULXXkN/ukTqKc9d0LZ7Vj5ax3CQ36yPW9thf6x2enYffYdcnkuId9/7jdbmOv1wvPMAnLu2QXZM/sLD90cbuxJLPnt7jEsniA4qjoHyYsa98E6dhSa/kl3bWX9tba/lq7s9buLuHBY9lvq+dNf4u+AWeSsoSk/c/HxditGNEpzS4pD4uRGxYQJlH2Mmp0ubkMyQsKGlg8HSx+bzsw/fPBI8Ffb8IbJiSKIhJcOMXIfxawbudggeSaxsWzGUheWxNIn8mELGCgYoiyh9eDqH9+GcUEBU/rwebtBaJXLxC1bLwdZ3y0QkLfNE6d6rLWlkAyC1inTllLG1cr5AQqAOX4AS0BBM5APhIQT0KSacsKnt3mELVtBaCTWgGkZ6jNTHbaGGJmGKWcDHkM7xEG9TNSz78A8UgYYvQBMWGHjWd1CjYtiP+o3PWZsoDPBdyOIVCeBksSHAFZUJmCK7K/2QIrOPZ+HUf3pDog3e7h1O0Osr9KaHQxpuIKp1yFORIgEoyJEGESWYopdwdj4J7+rlPBQGkNST6QbwmNSTDkUUBiYQc3416gupkhBS2fGVK84M1cZTgav7kf/Su+4/s7hL+iByLuB1RgbgdM44bBagzqbHu/AvSMuwer6Lk7o3e/xey3Xzf3/fM8AYzzHFqc5P8atrVyElqaf2RoEhGQHHCWJX+K7i24XlU2diLYuB2xuWBwUGFj3IBUuJTyGh0NB5Jxq1HZrKylZUHhYEkfRk+WuLmD6/htlwqu+JxFHAXXC2IFLK9W2w/a+CuhSnM/WRCcyGz6CGM+hctE8qmKPzsY1murQofho5Qzce44MUWR5K1JrPDEEU+C2WTRwnzqTOQEO/N8QcHJlk6/FEunramgW+SOXiNld9m8ybo2au8kh7x67YDsITW3wPjT0rOkz/g5Qe8GeK2ckTahlDsoMTAulfhMWHAEQQEThIhGJDiM3PSMG6amyE3PuN2pUG5upaDhaDJuXiqb818oWvLyIBLTM25yKpSYBYZ3MX9QHXbwao7LyUrGcJbx349vIFSTQKtlKcrqZWRONKgpPZJKcnCofvVmQ8XA5Wj0cXz9YfxWzRzf7NR+GLdAFZL5E4lpWNZ+2IHLuNtpSMGaXy+rsX/FWhFlG2plv5I1vzkGYrW0KN0dTY1EuQcPKJRKuKSVRUWpUfZ8oGz2LFLnHMhb+P97i23INMlbbCOr4WBqnLXIOclDEDyUcxSTjSqHQUQQS1mazDI5aKkmyW+S5yidboZdMrMDWHNMxxVRE0IaYksuNws1QCwotkVthV3NTIhO1eyyV78nfJ16mYsDljoU1B8iuttCc6dWuy76eqYcCniZnDfqM+0Ep3HHYlXgVFB13mnShyGbjDMMVnM+ChmqyRVwQct8p+cIZnnCA5UDlYHj8RPMaRQBI2o2jsmUf1e/U3UFSted4S99uvzbzr+gXtVfBzRznSo+ICnbxQfIPwBafhxkjzwAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>a13202f3-87f5-11eb-9c33-000c299f8cef</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>315</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Rerelease</Name>
+					<GUID>7bca78fe-e664-4a81-9f51-790cd31ecabb</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
