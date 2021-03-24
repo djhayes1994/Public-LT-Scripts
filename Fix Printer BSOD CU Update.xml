@@ -1,0 +1,37 @@
+﻿<LabTech_Expansion
+	Version="200.251"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6185</ScriptId>
+				<FolderId>315</FolderId>
+				<ScriptName>Fix Printer BSOD CU Update</ScriptName>
+				<ScriptNotes>Deploys appropriate KB article for Windows 10 machines that are affected by the KB that caused printing BSODs.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPzQrCMBCE74LvkAdoaH78a1lyUfFiQbR4T7dbzCUtaQP27aVFoZ6G2ZlvYeDqkHxPJztYA+XYkZGQzgr36I9t9AMFIyBdODi/OxcmhkwZqa/tmLDCBnwxpROmhJJM5lrn2w27FZAu6vDA4LrhSaF3rZ/+/h+++SW62lS0lxUKwQ9od1xKqniGWnMhBKosaw5IzY+fAUiXa9arD4XtELvdAAAA</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>be71bc00-8ca6-11eb-9c33-000c299f8cef</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>315</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Rerelease</Name>
+					<GUID>7bca78fe-e664-4a81-9f51-790cd31ecabb</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
