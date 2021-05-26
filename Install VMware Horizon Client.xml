@@ -1,0 +1,37 @@
+﻿<LabTech_Expansion
+	Version="210.82"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6200</ScriptId>
+				<FolderId>315</FolderId>
+				<ScriptName>Install VMware Horizon Client</ScriptName>
+				<ScriptNotes>Installs the VMware Horizon Client with ADDLOCAL=ALL</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>1</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPzQqDMBCE74W+Qx5AySY2+MOSS1t6qVBa6V3jSnOJEg3Uty9KC/a0OzP7DSxerSE30qmeao3VPJAWyNeJ9+COfXATeQ3INwrP78H6hSFdBRrbeo5YWXvzYpBETIIElhUyK0TKbiXyzTk+jLfD9CQ/2t4tvf/GN78E2+pGHVSSUhM3pNJYiGUDBTEAGJnnXWao+/ErgHz7zX73AcQJy4ndAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO1bXVPjNhR970z/w33ZmXaGxF8JAYZmJpOQLTPZhZItfeFF2DJo1pFSSyawv76yLYMJxF2CFK/dvmBLsh35cM+990jXx3M/JksxQQINf/4J4Dhv86whmyf3Ikbp6JTgKOBgFQPnKEYLLHBc6vsYsWsUlTryh13KiwijQ+fYet7x7KqPCQmG1/1e3xvg68417g86jpOe2X27Y9u27x4ehgc+DounZDdkc7bKk1aPmwu8fHyLkS/UBNSZ6p8mNGufBulYqVV+SWftpd21trfW7q21+yU8WCyGtpxvelR9Y0YFoQlO+x/P1dgZn5EFyW4pTtXIKQ0wFSh7GTlabpYheUKhAha3ChbvcDMww6PxLfa/noanlAsURTg4ttTIfxawfm9nhuToxsU1aUiuXWFIl59WKMbwO4vJN0ZhHBE5i9eNaXg0imKMgod1o3PfBabbLDArWXk2z3hphIyebpx69XmvDYakF7Bek7xXpV29SlIAwgHlQAIpkAQ5Lm4x8Acu8KJrBNh+exhrGwFov1EAVVPVpEsbtIahGUaE3kDIYviEfJCHmZz/PfBbTBElN4hyM2w8aJKxVYL4WfquvwgN2IrD2RwCKXJ8gYM9wPdEpODy7De7YATHw7fj6OzXB6TT3126u4UOqBOaKhuTduWnXIUV4sAT38ech0lkyKacLZSCM/hRQ8FY5hoCX+C/ExLjYMqiAMfcDG7aRUF9kSEFLY8MKV7wYSU9HIk/XM2+8Dv/6hz5X9EN5ld5jmcGTe3SwagRVgn5YR3waRcSRuFztofvaoPwt18X+sOj3AfMczeqLvLeBm6jxEQl0/+k6DrCIBj4maP8PsZ34eR5dmPGhrVLEpOrBztNbrSLkBrXVV7jo2ZD0i43aovM1bxUJA5KSWL0YIicW0iPH3a9YMJWNGIoOLk3E43dRm1KVBpgAVXq/PE99hORBZAwZgtQRjiefDZjc26z9jCqYLwVYsmPLCtQcHrdu0UWWX22sDgLRdqw7gheZX/8bPWUW+PRxRfXnf7hWDnWHbW82smXVzuuY3udg67btTvOYNA/tB23izcZ9b8lVurZpQes51L2VumT26zdk/fkpi8h/O40tSDa/NGVbwd2o3RUpespdl5ioEzIRDWhwR4UBIIQkQgHu8lMXe3qqi2ZqatdGtWYmW6koGZr0q5zassOniha8HInyairXQ/VmIwqDM9jdiM7zODVHkF0kVCauvtiMzk2A1iz1M6+lowFLA4WZTGWyMYCRpPJ7Gw8mv02ms3MFItoV0k1svgSxyQsikXMwKVdDbWk0s1rlr7QV+qmrO1FuvK+WjevPQri9ZqkdFc1VRTF3j2gUMgMJq1IUlElmydIab6M5DU7Ehne/yJjEzJtEhmbSKvZmFqnMXJOshCK1bIX1RHjCKMsN0yWEJIIG6pl8tokPgrJm2GXLM0A1h71McEyIKQmVpK7makBooHaSzVldg2TJFVZTg0FEr1miY13LEK/deFZUX+KyHYrzr1G7dJU10HlUMBTcH5R12nGOLUrGKMJTg3V6r02fVnyknGawWrPVyVTGVzBV7TMt3z2YJk7PJA+UAo4Fj/AikQRUCyjcYwX7E4eF/IOlC5Awy/V7vJXM/+CZpWM7VDM9er48KRoqy+Z/wEnB6Dg2DwAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>b54537eb-be57-11eb-b050-000c299f8cef</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>315</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Rerelease</Name>
+					<GUID>7bca78fe-e664-4a81-9f51-790cd31ecabb</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
